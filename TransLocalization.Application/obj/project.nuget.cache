@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aylnT3WhyGr2KDHrZTJWk2rKnEocXGGPkZJroiQzH4B0sfY0JSRn+VMqIctLDgiQ90x4nfCUk9mgbVYUYquBdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Borsa\\Documents\\translocalization\\TransLocalization\\TransLocalization.Application\\TransLocalization.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Borsa\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
+    "C:\\Users\\Borsa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

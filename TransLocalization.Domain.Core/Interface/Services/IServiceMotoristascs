@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using TransLocalization.Domain.Entitys;
+
+namespace TransLocalization.Domain.Core.Interface.Services
+{
+   public interface IServiceMotoristas : IServiceBase<Motoristas>
+    {
+    }
+}

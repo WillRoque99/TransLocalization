@@ -1,0 +1,10 @@
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\bin\Debug\netcoreapp3.1\TransLocalization.Domain.deps.json
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\bin\Debug\netcoreapp3.1\TransLocalization.Domain.dll
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\bin\Debug\netcoreapp3.1\TransLocalization.Domain.pdb
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\obj\Debug\netcoreapp3.1\TransLocalization.Domain.csproj.AssemblyReference.cache
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\obj\Debug\netcoreapp3.1\TransLocalization.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\obj\Debug\netcoreapp3.1\TransLocalization.Domain.AssemblyInfoInputs.cache
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\obj\Debug\netcoreapp3.1\TransLocalization.Domain.AssemblyInfo.cs
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\obj\Debug\netcoreapp3.1\TransLocalization.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\obj\Debug\netcoreapp3.1\TransLocalization.Domain.dll
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain\obj\Debug\netcoreapp3.1\TransLocalization.Domain.pdb

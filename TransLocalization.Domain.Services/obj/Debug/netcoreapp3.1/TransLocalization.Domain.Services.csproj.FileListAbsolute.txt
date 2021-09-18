@@ -1,0 +1,15 @@
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\bin\Debug\netcoreapp3.1\TransLocalization.Domain.Services.deps.json
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\bin\Debug\netcoreapp3.1\TransLocalization.Domain.Services.dll
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\bin\Debug\netcoreapp3.1\TransLocalization.Domain.Services.pdb
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\obj\Debug\netcoreapp3.1\TransLocalization.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\obj\Debug\netcoreapp3.1\TransLocalization.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\obj\Debug\netcoreapp3.1\TransLocalization.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\obj\Debug\netcoreapp3.1\TransLocalization.Domain.Services.AssemblyInfo.cs
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\obj\Debug\netcoreapp3.1\TransLocalization.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\obj\Debug\netcoreapp3.1\TransLocalization.Domain.Services.dll
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\obj\Debug\netcoreapp3.1\TransLocalization.Domain.Services.pdb
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\bin\Debug\netcoreapp3.1\TransLocalization.Domain.Core.dll
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\bin\Debug\netcoreapp3.1\TransLocalization.Domain.dll
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\bin\Debug\netcoreapp3.1\TransLocalization.Domain.Core.pdb
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\bin\Debug\netcoreapp3.1\TransLocalization.Domain.pdb
+C:\Users\Borsa\Documents\translocalization\TransLocalization\TransLocalization.Domain.Services\obj\Debug\netcoreapp3.1\TransLocalization.Domain.Services.csproj.CopyComplete

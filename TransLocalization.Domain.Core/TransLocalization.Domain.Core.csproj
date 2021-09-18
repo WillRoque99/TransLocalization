@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Interface\Services\IServiceMotoristascs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Interface\Services\IServiceMotoristascs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TransLocalization.Domain\TransLocalization.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
